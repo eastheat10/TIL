@@ -42,7 +42,7 @@
 	* [5622번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage7/A5622.java) : 다이얼
 - - - -
 8.  **수학 1** (~ing)
-	* [1712번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A1712.java) : 손익분기점
-	* [2869번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2869.java) : 달팽이는 올라가고 싶다
-	* [부녀회장이 될테야](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2775.java) : 부녀회장이 될테야
+	* [[201225] 1712번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A1712.java) : 손익분기점
+	* [[201225] 2869번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2869.java) : 달팽이는 올라가고 싶다
+	* [[201227] 2775번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2775.java) : 부녀회장이 될테야
 - - - -
