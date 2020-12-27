@@ -1,5 +1,5 @@
 # String Class
----
+- - - -
 * CharSequence _Interface_
 	* 문자열 클래스들의 동통부모 클래스
 	1. String 클래스
@@ -12,15 +12,15 @@
 		* thread safe하지 않음
 	3. StringBuffer 클래스
 		* StringBuilder와 기능이 같고 메소드도 같음
-		* thread safe하기 때문에 StringBuilder보다 느리다
-			> thread safe: 멀티스레드로 실행되어도 안전하다.
+		* thread safe하기 때문에 StringBuilder보다 느리다> thread safe: 멀티스레드로 실행되어도 안전하다.
+
 
 * 공통 부모 인터페이스의 목적
 	* 공통 부모 인터페이스를 구현(implements)한 클래스들은, 인터페이스에 선언 된 메소드를 전부 구현해야 하고 사용법도 같아야 한다.
 	* 사용법이 같아서 호환되는 클래스들을 만들기위해 인터페이스 사용
 
-* equals 메소드
-	> Object class에 정의 되어 있음
+
+* equals 메소드> Object class에 정의 되어 있음
 	* String 클래스는 equals 메소드를 재정의(override)하였다
 	* StringBuffer 클래스는 재정의 하지 않고 object 클래스의 equal 메소드 상속
 		* equals 메소드르 재정의 하지 않느 클래스는 값을 비교하기 어렵다
