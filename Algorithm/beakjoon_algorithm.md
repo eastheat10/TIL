@@ -25,6 +25,7 @@
 	* [1110번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage4/A1110.java) : 더하기 사이클
 - - - -
 5. **1차원 배열** (finish)
+
  	* [10818번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A10818.java) : 최소, 최대
  	* [2577번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A2577.java) : 숫자의 개수
  	* [8958번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A8958.java) : OX퀴즈
@@ -44,5 +45,6 @@
 8.  **수학 1** (~ing)
 	* [[201225] 1712번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A1712.java) : 손익분기점
 	* [[201225] 2869번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2869.java) : 달팽이는 올라가고 싶다
+	* [[201228] 10250번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A10250.java) : ACM 호텔
 	* [[201227] 2775번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2775.java) : 부녀회장이 될테야
 - - - -
