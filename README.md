@@ -6,8 +6,19 @@
 * 자세하게 작성하자
 * 꾸준하게!
 
+
+
+## Spring
+
+* [[201229] JPQL](https://github.com/eastheat10/TIL/blob/main/Spring/JPQL.md)
+
+
+
 ## Java
+
 * [[201227] String Class](https://github.com/eastheat10/TIL/blob/main/Java/StringClass.md)
+
+  
 
 ## Algorithm
 * [Algorithm](https://github.com/eastheat10/TIL/blob/main/Algorithm/beakjoon_algorithm.md)
