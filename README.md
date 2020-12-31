@@ -12,7 +12,7 @@
 
 * [[201229] JPQL](https://github.com/eastheat10/TIL/blob/main/Spring/JPQL.md)
 
-* [[201230] Sring Form1](https://github.com/eastheat10/TIL/blob/main/Spring/Spring%20form1.md
+* [[201230] Sring Form1](https://github.com/eastheat10/TIL/blob/main/Spring/Spring%20form1.md)
 
 * [[201231] Spring Form2](https://github.com/eastheat10/TIL/blob/main/Spring/Spring%20form2.md)
 
