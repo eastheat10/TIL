@@ -26,10 +26,14 @@
 - - - -
 5. **1차원 배열** (finish)
 
- 	* [10818번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A10818.java) : 최소, 최대
- 	* [2577번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A2577.java) : 숫자의 개수
- 	* [8958번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A8958.java) : OX퀴즈
- 	* [4344번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A4344.java) : 평균은 넘겠지
+   * [10818번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A10818.j ava) : 최소, 최대
+
+   * [2577번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A2577.java) : 숫자의 개수
+
+   * [8958번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A8958.java) : OX퀴즈
+
+   * [4344번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage5/A4344.java) : 평균은 넘겠지
+
 - - - -
 6. **함수** (~ing)
 	* [15596번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage6/A15596.java) : 정수 N개의 합
@@ -48,3 +52,6 @@
 	* [[201228] 10250번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A10250.java) : ACM 호텔
 	* [[201227] 2775번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage8/A2775.java) : 부녀회장이 될테야
 - - - -
+
+9. **수학 2** (~ing)
+   * [[210102] 1978번](https://github.com/eastheat10/algorithm/blob/master/src/algo/stage9/A1978.java) : 소수 찾기
