@@ -12,7 +12,7 @@
 
 지워지지 않은 수가 소수이다.
 
-![Sieve_of_Eratosthenes_animation](/Users/dongyeol/Documents/TIL/Algorithm/Sieve_of_Eratosthenes_animation.gif)
+![Sieve_of_Eratosthenes_animation](https://github.com/eastheat10/TIL/blob/main/Algorithm/Sieve_of_Eratosthenes_animation.gif)
 
 
 
