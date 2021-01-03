@@ -22,7 +22,7 @@
 
 * [[201227] String Class](https://github.com/eastheat10/TIL/blob/main/Java/StringClass.md)
 
-* [[210103 Java I/O](https://github.com/eastheat10/TIL/blob/main/Java/Java_IO.md)
+* [[210103] Java I/O](https://github.com/eastheat10/TIL/blob/main/Java/Java_IO.md)
 
   
 
