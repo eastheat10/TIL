@@ -1,4 +1,4 @@
-	# Java 입출력
+# Java 입출력
 
 
 
@@ -6,7 +6,7 @@
 
 * 버퍼를 이용하여 읽고 쓰기 때문에 입출력의 효율이 좋아짐
 
-![buffer](/Users/dongyeol/Documents/TIL/Java/buffer.png)
+![buffer](https://github.com/eastheat10/TIL/blob/main/Java/buffer.png)
 
 * 하드디스크의 속도가 엄청 느리기 때문에 데이터를 버퍼에 묶어서 이동시키는 것이 입출력 시 마다 이동시키는 것보다 훨씬 빠르다.
 
@@ -20,24 +20,24 @@ import java.io.OutputStreamWriter;
 // bufferedReader, bufferedWriter를 이용한 입출력
 
 public class Main {
-		public static void main(String[] args) throws IOException {
+	public static void main(String[] args) throws IOException {
 
-			BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-			BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-//			System.out.print("숫자를 입력하세요: ");
-			int n = Integer.parseInt(br.readLine().trim());
+	//			System.out.print("숫자를 입력하세요: ");
+		int n = Integer.parseInt(br.readLine().trim());
 
 
-			for(int i = 0; i < n; i++) {
-				String s1 = br.readLine();
-				String[] s2 = s1.split(" ");
-				int sum = Integer.parseInt(s2[0]) + Integer.parseInt(s2[1]);
-				bw.write(sum + "\n");
-			}
-			br.close();
-			bw.flush();
-			bw.close();
+		for(int i = 0; i < n; i++) {
+			String s1 = br.readLine();
+			String[] s2 = s1.split(" ");
+			int sum = Integer.parseInt(s2[0]) + Integer.parseInt(s2[1]);
+			bw.write(sum + "\n");
+		}
+		br.close();
+		bw.flush();
+		bw.close();
         }
 }
 
