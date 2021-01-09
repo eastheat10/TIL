@@ -28,9 +28,9 @@ Stack<String> stack_String = new Stack<>();
 
 ```java
 Stack<Integer> stack = news Stack<>();		// int형 스택
-stack.push(1);														// stack에 값 1 추가
-stack.push(2);														// stack에 값 2 추가
-stack.push(3);														// stack에 값 3 추가
+stack.push(1);		// stack에 값 1 추가
+stack.push(2);		// stack에 값 2 추가
+stack.push(3);		// stack에 값 3 추가
 ```
 
 * push() 라는 메소드를 사용해서 스택에 값 추가.
@@ -44,11 +44,11 @@ stack.push(3);														// stack에 값 3 추가
 
 ```java
 Stack<Integer> stack = news Stack<>();		// int형 스택
-stack.push(1);														// stack에 값 1 추가
-stack.push(2);														// stack에 값 2 추가
-stack.push(3);														// stack에 값 3 추가
-stack.pop();															// stack에 값 제거
-stack.clear();														// stack 초기화
+stack.push(1);		// stack에 값 1 추가
+stack.push(2);		// stack에 값 2 추가
+stack.push(3);		// stack에 값 3 추가
+stack.pop();		// stack에 값 제거
+stack.clear();		// stack 초기화
 ```
 
 * pop()메소드를 사용해서 스택의 값을 제거할 수 있다.
@@ -62,10 +62,10 @@ stack.clear();														// stack 초기화
 
 ```java
 Stack<Integer> stack = news Stack<>();		// int형 스택
-stack.push(1);														// stack에 값 1 추가
-stack.push(2);														// stack에 값 2 추가
-stack.push(3);														// stack에 값 3 추가
-stack.peek();														// stack의 가장 상단의 값 출력
+stack.push(1);		// stack에 값 1 추가
+stack.push(2);		// stack에 값 2 추가
+stack.push(3);		// stack에 값 3 추가
+stack.peek();		// stack의 가장 상단의 값 출력
 ```
 
 * 스택의 가장 위에 있는 값(가장 나중에 입력된 값)을 출력할 때 peek()메소드 이용할 수 있다.
@@ -76,11 +76,11 @@ stack.peek();														// stack의 가장 상단의 값 출력
 
 ```java
 Stack<Integer> stack = new Stack<>(); 	//int형 스택 선언
-stack.push(1);   											  // stack에 값 1 추가
-stack.push(2);  										    // stack에 값 2 추가
-stack.size();  											    // stack의 크기 출력 : 2
-stack.empty();  										    // stack이 비어있는제 check (비어있다면 true)
-stack.contains(1) 											// stack에 1이 있는지 check (있다면 true)
+stack.push(1);		// stack에 값 1 추가
+stack.push(2);		// stack에 값 2 추가
+stack.size();		// stack의 크기 출력 : 2
+stack.empty();		// stack이 비어있는제 check (비어있다면 true)
+stack.contains(1);		// stack에 1이 있는지 check (있다면 true)
 ```
 
 * size(): 스택의 크기
