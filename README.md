@@ -22,9 +22,11 @@
 * [[201227] String Class](https://github.com/eastheat10/TIL/blob/main/Java/StringClass.md)
 * [[210103] Java I/O](https://github.com/eastheat10/TIL/blob/main/Java/Java_IO.md)
 * [[210108] BigInteger class](https://github.com/eastheat10/TIL/blob/main/Java/BigInteger.md)
+* [[210109] Stack](https://github.com/eastheat10/TIL/blob/main/Java/Stack.md)
 
 
 
 ## Algorithm
-* [Algorithm](https://github.com/eastheat10/TIL/blob/main/Algorithm/beakjoon_algorithm.md)
+* [Algorithm](https://github.com/eastheat10/algorithm/blob/master/README.md)
+* [[210103]Sieve Of Eratosthenes(에라스토테네스의 체)](https://github.com/eastheat10/TIL/blob/main/Algorithm/Sieve_of_Eratosthenes.md)
 
