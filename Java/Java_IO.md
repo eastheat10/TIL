@@ -6,7 +6,7 @@
 
 * 버퍼를 이용하여 읽고 쓰기 때문에 입출력의 효율이 좋아짐
 
-![buffer](https://github.com/eastheat10/TIL/blob/main/Java/buffer.png)
+![buffer](image/buffer.png)
 
 * 하드디스크의 속도가 엄청 느리기 때문에 데이터를 버퍼에 묶어서 이동시키는 것이 입출력 시 마다 이동시키는 것보다 훨씬 빠르다.
 

@@ -36,7 +36,7 @@ stack.push(3);		// stack에 값 3 추가
 * push() 라는 메소드를 사용해서 스택에 값 추가.
 * 나중에 들어온 데이터가 맨 위에 쌓임.
 
-![buffer](https://github.com/eastheat10/TIL/blob/main/Java/stack_push.png)
+![buffer](image/stack/stack_push.png)
 
 
 
@@ -54,7 +54,7 @@ stack.clear();		// stack 초기화
 * pop()메소드를 사용해서 스택의 값을 제거할 수 있다.
 * clear()메소드를 사용해서 스택의 값을 모두 제거할 수 있다.
 
-![buffer](https://github.com/eastheat10/TIL/blob/main/Java/stack_pop.png)
+![buffer](image/stack/stack_pop.png)
 
 
 
