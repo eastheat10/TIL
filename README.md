@@ -36,6 +36,8 @@
 > > [[1주차] 자바의 특징](https://github.com/eastheat10/TIL/blob/main/Java/2021_vacation_mentoring/first_week.md)
 > >
 > > [[2주차] JVM](https://github.com/eastheat10/TIL/blob/main/Java/2021_vacation_mentoring/2_week.md)
+> >
+> > [[3주차] Primitive type, Variable, Array](https://github.com/eastheat10/TIL/blob/main/Java/2021_vacation_mentoring/3_week.md)
 
 
 
