@@ -38,6 +38,8 @@
 > > [[2주차] JVM](https://github.com/eastheat10/TIL/blob/main/Java/2021_vacation_mentoring/2_week.md)
 > >
 > > [[3주차] Primitive type, Variable, Array](https://github.com/eastheat10/TIL/blob/main/Java/2021_vacation_mentoring/3_week.md)
+> >
+> > [[4주차] Operator](https://github.com/eastheat10/TIL/blob/main/Java/2021_vacation_mentoring/4_week.md)
 
 
 
