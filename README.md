@@ -44,6 +44,8 @@
 > > [[5주차] Control Statement](https://github.com/eastheat10/TIL/blob/main/Java/2021_vacation_mentoring/5_week.md)
 > >
 > > [[7주차] Java Class](https://github.com/eastheat10/TIL/blob/main/Java/2021_vacation_mentoring/7_week.md)
+> >
+> > [[8주차] Inheritance](https://github.com/eastheat10/TIL/blob/main/Java/2021_vacation_mentoring/8_week.md)
 
 
 
