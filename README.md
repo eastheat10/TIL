@@ -1,7 +1,8 @@
 
 # Today I Learned
-* [Tistory](https://hellodavid.tistory.com/)
+
 [![Version](https://img.shields.io/badge/version-2020.12.27-red.svg)](./CHANGELOG) 
+* [Tistory](https://hellodavid.tistory.com/)
 * 그날 배운 것 그날 기록하자
 * 자세하게 작성하자
 * 꾸준하게!
